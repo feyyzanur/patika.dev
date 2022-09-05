@@ -1,4 +1,3 @@
-
 /* Film tablosundaki title ve description sütunlarındaki verileri
 sıralıyoruz. */
 
