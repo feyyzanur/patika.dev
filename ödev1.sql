@@ -1,4 +1,4 @@
-/* Fil tablosundaki title ve description sütunlarındaki verileri
+/* Film tablosundaki title ve description sütunlarındaki verileri
 sıralıyoruz. */
 
 SELECT title,description FROM film;
